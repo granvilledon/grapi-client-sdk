@@ -4,7 +4,7 @@ import cn.hutool.crypto.digest.DigestAlgorithm;
 import cn.hutool.crypto.digest.Digester;
 
 /**
- * 前面工具
+ * 签名工具
  */
 public class SignUtils {
     public static String getSign(String body, String secretKey) {

@@ -1,7 +1,6 @@
 package com.granvilledon.grapiclientsdk;
 
 import com.granvilledon.grapiclientsdk.client.GrapiClient;
-import com.granvilledon.grapiclientsdk.model.User;
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
